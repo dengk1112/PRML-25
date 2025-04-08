@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-刚学机器学习的小白代码，包含大量注释和分步说明
-"""
-
-# 导入需要的库（如果报错就pip install安装）
 import numpy as np  # 数据处理
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
